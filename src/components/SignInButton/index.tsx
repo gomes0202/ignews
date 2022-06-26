@@ -1,5 +1,10 @@
+
+//Importação od CSS
 import styles from './styles.module.scss';
+
+//Importação de icones
 import { FiX } from 'react-icons/fi'
+//Importação de icones
 import { FaGithub } from 'react-icons/fa'
 
 export function SigInButton() {
@@ -16,6 +21,7 @@ export function SigInButton() {
     <button className={styles.sigInButton}
       type="button">
       <FaGithub color='#eba417' />
-      Sign In With Github</button>
+      Sign In With Github
+    </button>
   );
 }
