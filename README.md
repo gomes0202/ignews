@@ -1,3 +1,9 @@
+Esse projeto foi desenvolvido no curso da Rocketseat, na abordagem de Next.js
+<br>
+O projeto contém apenas o front-end, NÃO possui a integração com a API do stripe.
+<br>
+Abaixo segue instruções do próprio Next.js para execução.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
